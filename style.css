@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+.h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lista{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 8px 16px;
+}
+
+.efeito{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 8px 16px;
+    
+}
+
+li:hover {
+    background-color: blueviolet;
+
+}
+
+.paginador{
+    display: inline-block;
+}
